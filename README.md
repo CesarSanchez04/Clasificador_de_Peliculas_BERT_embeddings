@@ -1,5 +1,7 @@
 # Clasificador_de_Peliculas_BERT_embeddings
 
+## OBSERVACION: El proyecto fue subido en pdf debido que para Bert se empleo la libreria TQDM la cual es incompatible con Github, por ende se adjunto el codigo del NoteBook para la visualizacion del codigo como tal y el pdf para la visualizacion de resultados 
+
 ## Descripción del problema  
 
 En el procesamiento del lenguaje natural (NLP), transformar texto en representaciones numéricas significativas es esencial para tareas como clasificación, análisis de sentimientos, búsqueda semántica o detección de similitud entre frases.  
